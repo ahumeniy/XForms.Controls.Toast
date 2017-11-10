@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XForms.Controls.Toast", "XForms.Controls.Toast\XForms.Controls.Toast.csproj", "{D79283F5-3A5F-4A1D-A267-9D1933682DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XForms.Controls.Toast.Droid", "XForms.Controls.Toasts.Droid\XForms.Controls.Toast.Droid.csproj", "{0F64702F-842D-41F7-A176-C721544DBF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XForms.Controls.Toast.iOS", "XForms.Controls.Toasts.iOS\XForms.Controls.Toast.iOS.csproj", "{C083AD8D-E745-4571-A190-E25E1D3FCE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79283F5-3A5F-4A1D-A267-9D1933682DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79283F5-3A5F-4A1D-A267-9D1933682DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79283F5-3A5F-4A1D-A267-9D1933682DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79283F5-3A5F-4A1D-A267-9D1933682DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F64702F-842D-41F7-A176-C721544DBF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F64702F-842D-41F7-A176-C721544DBF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F64702F-842D-41F7-A176-C721544DBF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F64702F-842D-41F7-A176-C721544DBF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C083AD8D-E745-4571-A190-E25E1D3FCE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C083AD8D-E745-4571-A190-E25E1D3FCE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C083AD8D-E745-4571-A190-E25E1D3FCE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C083AD8D-E745-4571-A190-E25E1D3FCE20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0D8216-1AD9-4C20-A647-979258A14EFE}
+	EndGlobalSection
+EndGlobal
