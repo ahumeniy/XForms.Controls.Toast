@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Alexei Humeniy</authors>
+    <owners>Alexei Humeniy</owners>
+    <projectUrl>https://git.netred.cl/ahumeniy/XForms.Controls.Toast</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Toast plugin for Xamarin</description>
+    <releaseNotes>Versión inicial</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin Forms Controls Toast</tags>
+  </metadata>
+</package>
